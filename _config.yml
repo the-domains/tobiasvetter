@@ -1,0 +1,28 @@
+name: tobiasvetter
+favicon: null
+layout_spectrum: 0.15367139130830765
+typography_spectrum: 0.9537712067831308
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+  brandStrength: 0.44088816829025745
+  lightness: 0.46314440947026014
+  saturation: 0.44111844641156495
+  rhythmicContrast: 0.4549058829434216
+purpose: []

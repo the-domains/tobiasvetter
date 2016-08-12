@@ -4,8 +4,15 @@
         <description><![CDATA[tobiasvetter]]></description>
         <link>https://thegrid.ai/tobiasvetter/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 12 Aug 2016 20:10:59 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Aug 2016 20:11:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/tobiasvetter/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[2016 07 09_Menzberg]]></title>
+            <description><![CDATA[<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F174166169&src_secure=1&url=https%3A%2F%2Fvimeo.com%2F174166169&image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F580907832_1280x720.jpg&key=b7d04c9b404c499eba89ee7072e1c4f7&type=text%2Fhtml&schema=vimeo" width="1000" height="563" scrolling="no" frameborder="0" allowfullscreen></iframe>]]></description>
+            <link>https://vimeo.com/174166169</link>
+            <guid isPermaLink="false">8c711c22-4617-47fc-b0dd-1c0699794e6b</guid>
+            <pubDate>Fri, 12 Aug 2016 20:10:56 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2016 07 17_Ticino]]></title>
             <description><![CDATA[<article><h1>2016 07 17_Ticino</h1><p></p></article>]]></description>
@@ -68,13 +75,6 @@
             <link>https://vimeo.com/149835022</link>
             <guid isPermaLink="false">cb778574-a95f-4c46-9e8f-815e1be6b4ca</guid>
             <pubDate>Sat, 30 Apr 2016 19:11:13 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2015 08 08_Flyover Wolhusen]]></title>
-            <description><![CDATA[<article><h1>2015 08 08_Flyover Wolhusen</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/2b3cb272f76c14dbde7192278069ebd82b751567.jpg"></article>]]></description>
-            <link>https://vimeo.com/150093579</link>
-            <guid isPermaLink="false">17b009cf-d764-429b-b9dc-25c00b08acc0</guid>
-            <pubDate>Sat, 30 Apr 2016 19:09:38 GMT</pubDate>
         </item>
     </channel>
 </rss>

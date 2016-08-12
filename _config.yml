@@ -1,7 +1,7 @@
 name: tobiasvetter
 favicon: null
-layout_spectrum: 0.38961
-typography_spectrum: 0.89836
+layout_spectrum: 0.45472
+typography_spectrum: 0.10851
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#cfd5e5'
     - '#17315b'
   brandStrength: 0.25
-  lightness: 0.75
+  lightness: 0.9375
   saturation: 0.25
   rhythmicContrast: 0.25
 purpose: []
